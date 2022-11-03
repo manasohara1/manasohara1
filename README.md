@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @manasohara1
+- 👋 Hi, I’m Manas O'Hara
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Msc(CS) - @MIT-WPU
-- 💞️ I’m looking to collaborate on various repos
+- 🌱 I’m currently pursuing Msc(CS) - @MIT-WPU
+- 💞️ I’m looking to collaborate on various repositories
 - 📫 How to reach me . manasoharak@gmail.com
 
 <!---
